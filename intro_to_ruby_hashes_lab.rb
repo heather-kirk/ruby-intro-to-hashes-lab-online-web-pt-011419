@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
- actor[:name] ="Dwayne the Rock Jonhson"
+ actor[:name] ="Dwayne the Rock Johnson"
 end
 actor 
 end 

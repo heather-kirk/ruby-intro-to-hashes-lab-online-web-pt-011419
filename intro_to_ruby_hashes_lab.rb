@@ -25,7 +25,7 @@ monopoly = {
 	  :railroads =>{},
 	  :names => {},
 	  :shortline => {},
-
+}
 end
 
 def monopoly_with_fourth_tier

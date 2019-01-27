@@ -5,6 +5,7 @@ end
 def actor
  actor[:name] ="Dwayne the Rock Jonhson"
 end
+actor end 
 
 def monopoly
 	monopoly = {}

@@ -5,8 +5,7 @@ end
 def actor
  actor = {:name, "Dwayne the Rock Johnson"}
 end
-puts actor 
-end 
+
 
 def monopoly
 	monopoly = {}

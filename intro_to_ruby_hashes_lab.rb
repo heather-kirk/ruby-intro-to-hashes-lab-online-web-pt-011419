@@ -14,17 +14,17 @@ end
 
 def monopoly_with_second_tier
 	monopoly = {
-	  :railroads {},
-	  :names {},
-	  :shortline {},
+	  :railroads => {},
+	  :names => {},
+	  :shortline => {},
 	}
 end
 
 def monopoly_with_third_tier
 monopoly = {
-	  :railroads {},
-	  :names {},
-	  :shortline {},
+	  :railroads =>{},
+	  :names => {},
+	  :shortline => {},
 
 end
 
